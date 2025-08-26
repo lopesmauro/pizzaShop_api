@@ -1,6 +1,6 @@
 # 🍕 pizza.shop API
 
-Food delivery app (aka. iFood/Uber Eats) back-end built with TypeScript, Prisma and Fastify.
+A Food delivery app (aka. iFood/Uber Eats) back-end built with TypeScript, Prisma and Fastify.
 
 ## Features
 
@@ -17,3 +17,4 @@ Food delivery app (aka. iFood/Uber Eats) back-end built with TypeScript, Prisma 
 - it should be able to update the restaurant public profile
 - it should be able to open/close the restaurant
 - it should be able to list metrics from the restaurant
+
